@@ -129,5 +129,3 @@ Converts a `[cmd_x, cmd_z]` input into force and torque vectors using a nonlinea
 - [ ] Include wave estimation or filtering
 
 ---
-
-Let me know if you'd like a Markdown version of this README or a `README.md` file generated directly.
