@@ -2,7 +2,7 @@
 
 This repository includes:
 
-- **Drag Force/Torque Estimator** from ROS2 bag files (using acceleration/velocity and thrust estimation)
+- **Drag Force/Torque Estimator** from ROS bag files (using acceleration/velocity and thrust estimation)
 - **Thruster Performance Curve Estimator** using constrained Taylor series
 - 📈 Automatic plotting of drag models for visualization and validation
 
